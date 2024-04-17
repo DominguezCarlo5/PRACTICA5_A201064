@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/CARLOS/Documents/PRACTICA5_A201064/ejemplo1.xml"?>
+<motos>
+<moto>
+<nombre>Ducati Panigale</nombre>
+<modelo>V4 R 2023</modelo>
+</moto>
+<moto>
+<nombre>BMW</nombre>
+<modelo>M 1000 R 2023</modelo>
+</moto>
+<moto>
+<nombre>Kawazaki ninja</nombre>
+<modelo>ZX - 6R 2023</modelo>
+</moto>
+</motos>
